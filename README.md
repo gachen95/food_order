@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Demo  
+
+<img src="demo/demo.gif" width="250">
+
+
+
 # Design
 
 Thanks to [Cheeza Pizza App Sketch Resource](https://www.sketchappsources.com/free-source/3486-cheeza-pizza-app-sketch-freebie-resource.html)]
