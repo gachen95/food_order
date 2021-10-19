@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Design
 
-Thanks to [Cheeza Pizza App Sketch Resource](https://www.sketchappsources.com/free-source/3486-cheeza-pizza-app-sketch-freebie-resource.html)]
+Thanks to [Cheeza Pizza App Sketch Resource](https://www.sketchappsources.com/free-source/3486-cheeza-pizza-app-sketch-freebie-resource.html)
 
 ![img](https://www.sketchappsources.com/resources/source-image/cheezza-pizza-app.jpg)
 
